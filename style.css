@@ -1,0 +1,44 @@
+#name{
+    font-size: 2vw;
+    font-family: system-ui;
+}
+#predict{
+    text-align: center;
+    font-size: 1.5vw;
+}
+body{
+    padding: 20px 20px 20px 20px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+div.slide-right {
+  width:100%;
+  overflow:hidden;
+}
+div.slide-right p {
+  animation: 5s slide-right;
+}
+
+@keyframes slide-right {
+  from {
+    margin-left: -20%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.card-body{
+    background-color: rgb(169, 175, 175);
+}
+select{
+    color: wheat;
+    background-color: rgb(255, 148, 8);
+}
+button{
+  height: 50px;
+}
