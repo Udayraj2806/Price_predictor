@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="428e1152-eb4f-48e8-a73e-c636cc8e411f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/sale.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/sale.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/templates/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/buy.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/buy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/images/car.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/cars.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/cars.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/templates/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/prajwal.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/prajwal.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/pre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/pre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/uday2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/uday2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/templates/yash.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/backend/static/pic/yash.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/todo.db" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todo.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,27 +44,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="298rfxk0ps0DLBIa9AB0gTPPJTF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Final_Mini_3\backend\static\pic" />
+      <recent name="C:\Users\Acer\Final_Mini_3\backend\static\images" />
+      <recent name="C:\Users\Acer\Final_Mini_3\backend\static\css" />
+      <recent name="C:\Users\Acer\Final_Mini_3\backend\templates" />
       <recent name="C:\html\car-pre\backend\templates" />
-      <recent name="C:\html\car-pre\backend" />
-      <recent name="C:\html\car-pre\backend\static\css" />
-      <recent name="C:\html\car-pre\backend\static" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,5 +79,23 @@
       <updated>1652505660807</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="163" key="FileChooserDialogImpl" timestamp="1652536032239">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="933" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1652536032239" />
   </component>
 </project>

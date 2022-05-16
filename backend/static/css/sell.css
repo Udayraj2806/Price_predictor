@@ -1,0 +1,19 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   color: rgb(255, 255, 255);
+    text-align: center;
+}
+#box{
+    background-color: rgb(214, 184, 132);
+    opacity: 86%;
+    font-size: 30px;
+    font-family:   Bold, sans-serif;
+}
+#sell{
+    font-family: "Times New Roman", Times, serif,bold;
+    font-size: 4vw;
+    
+}
+
